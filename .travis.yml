@@ -20,7 +20,7 @@ script:
 deploy:
   provider: heroku
   api-key:  $HEROKU_API_KEY
-    secure: $APP_GIOIO_KEY
+    #secure: $APP_GIOIO_KEY
   app: app-teste-gioio
   
   
