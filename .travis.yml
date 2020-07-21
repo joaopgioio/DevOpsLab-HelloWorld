@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $HEROKU_API_KEY
+    secure: 11e8c05d-804b-40e3-9fe4-826f2642fa6d
   app: app-teste-gioio
